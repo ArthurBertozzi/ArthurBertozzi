@@ -25,6 +25,9 @@ I'm a passionate **Fullstack Developer** from Brazil with a strong focus on **Ba
 
 - **Python**, **JavaScript**, **TypeScript**
 
+#### Learning
+- **Swift**
+
 #### Frameworks & Libraries
 
 - **Backend**: Django, Flask, Express.js
